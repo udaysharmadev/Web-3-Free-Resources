@@ -145,6 +145,8 @@ graph TB
 | 1 | **Ethereum Learn Hub** | How blockchain works, consensus, wallets, gas, accounts | Absolute beginners | [🔗 Visit](https://ethereum.org/learn/) |
 | 2 | **Ethereum Developer Tutorials** | Guided step-by-step tutorials for building dApps | Beginners ready to code | [🔗 Visit](https://ethereum.org/developers/tutorials) |
 
+Optional reading (Simplified Chinese): [链小知区块链: Token approvals](https://lianxiaozhi.com/learn/token-approvals) explains ERC-20 allowances, disconnecting versus revoking, and checking the network, owner, spender and post-transaction allowance; free, source-linked and AI-assisted.
+
 ```mermaid
 flowchart LR
     A["📖 Read Ethereum<br/>Learn Hub"] --> B["🧪 Try Developer<br/>Tutorials"] --> C["✅ You understand<br/>blockchain basics!"]
